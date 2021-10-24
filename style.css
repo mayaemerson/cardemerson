@@ -1,4 +1,4 @@
-@import "../css/var-css.css";
+@import "var-css.css";
 * {
   margin: 0;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 main {
-  background: url(/img/background.svg);
+  background: url(img/background.svg);
   width: 375px;
   height: 812px;
 }
